@@ -1,3 +1,1 @@
-# django_app
-# django_app
-# django_app
+Django app for organizing information and creating graphs
