@@ -1,3 +1,1 @@
-# django_app
-# django_app
-# django_app
+Website exploring functionality of django
